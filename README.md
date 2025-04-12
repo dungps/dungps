@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dzung Pham</h1>
-<h3 align="center">Currently, I'm living at Ho Chi Minh city and working as Software Engineer</h3>
+<h3 align="center">Currently, I'm living at Hanoi city and working as Software Engineer</h3>
 
 ![](https://komarev.com/ghpvc/?username=dungps)
 
