@@ -11,5 +11,5 @@
 [![Website Badge](https://img.shields.io/badge/-Website-3b5998?style=flat-square&logo=googlechrome&logoColor=white
 )](https://dungps.com)
 
-<p><img height="180em" src="https://github-readme-stats-eta-eight-99.vercel.app/api?username=dungps&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dungps&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<p><img height="180em" src="https://github-readme-stats-eta-eight-99.vercel.app/api?username=dungps&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /><img height="180em" src="https://github-readme-stats-eta-eight-99.vercel.app/api/top-langs/?username=dungps&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
